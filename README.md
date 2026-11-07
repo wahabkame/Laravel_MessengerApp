@@ -1,6 +1,7 @@
 # Laravel Messager App
 ## I built a Web App about Message App, I used a Laravel & Vue.js.
-### I used Axios Library to connect the Front-end (Vue) with Back-end (Laravel).
+### I used Axios Library to connect the Front-end (Vue)  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  /> with Back-end (Laravel)   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+.
 
 ### I also used libraries like: Pusher.js, Laravel Echo, Laravel Mix, Apline.js, Bootstrap, Tailwind CSS, Moment.js & Carbon, UI Avatars.
 ### I connect to AWS + Redis.
