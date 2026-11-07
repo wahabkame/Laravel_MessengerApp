@@ -31,6 +31,7 @@ Models:
 •	Participant (Pivot)
 •	Recipient (Pivot)
  
+<img src="">
 
 Front End Components By Vue.js:
 •	Messenger
